@@ -1,7 +1,7 @@
 # Datathon2023_CyberBros
 
 This project has been created by the CyberBros team for the Datathon 2023 competition.
-The Datathon 2023 competition is organized by Google, BTK Academy, and Entrepreneurship Foundation.
+The Datathon 2023 competition is organized by Google, BTK Academy and Entrepreneurship Foundation.
 
 ## Project Team
 
